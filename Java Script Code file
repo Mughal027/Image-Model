@@ -1,3 +1,8 @@
+
+Learn more about how to use the code snippet on github.
+https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android
+
+
 <div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
